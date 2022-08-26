@@ -1,0 +1,40 @@
+.body {
+
+flex:1;
+
+
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.header-container {
+
+display: flex;
+flex-direction: row;
+flex-grow: inherit;
+flex: 1;
+font-size: 24px;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(223, 223, 223);
+text-decoration: none;
+padding:30px
+
+
+
+
+}
+
+ul li{
+
+
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    
+}
